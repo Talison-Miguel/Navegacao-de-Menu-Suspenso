@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="animationscroll.jpg" />
+  <img alt="Imagem da Aplicação" src="follownav.jpg" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ Navegação do menu suspenso com javaScript puro.
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Animacao-do-Menu-Com-o-Scroll.git
+  ❯ git clone https://github.com/Talison-Miguel/Navegaco-de-Menu-Suspenso.git
 ```
 
 ---
