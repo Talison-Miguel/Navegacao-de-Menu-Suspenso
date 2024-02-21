@@ -56,7 +56,7 @@ Navegação do menu suspenso com javaScript puro.
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Navegaco-de-Menu-Suspenso.git
+  ❯ git clone https://github.com/Talison-Miguel/Navegacao-de-Menu-Suspenso.git
 ```
 
 ---
